@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BitirmeProjesi</string>
+    <string name="title_activity_welcome_page">WelcomePage</string>
+    <string name="title_activity_akdeniz_diyet">AkdenizDiyet</string>
+    <string name="akdeniz_giris">&#160;&#160; 1993 yılında Harvard\'ın Sağlık Örgütü tarafından incelenmiş ve birçok hastalığın tedavi sürecinde bir beslenme çeşidi olarak önerilmiş. Üstelik \'\'Akdeniz Diyeti Piramidi\'\' de oluşturulmuş. Oluşturulan bu piramidin tabanında sebzeler ve meyveler,zeytinyağı ve tahıllar, üzerinde balık ve deniz ürünleri, onun da üzerinde süt ürünleri, ardından tavuk eti ve son sırada ise kırmızı et yer alıyor.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="akdeniz_ilkgun">1.gün \nKahvaltı: 2 dilim kepekli ekmek (çavdar, ekşi mayalı ekmek de tüketebilirsiniz), 1 dilim tuzsuz beyaz peynir, 5-6 adet tuzsuz zeytin, 1 yemek kaşığı zeytinyağı, bolca salatalık, domates ve yeşillik.\nÖğlen yemeği: Ton balıklı, zeytinyağlı yeşil salata + 1 dilim kepek ekmeği. \nAkşam yemeği: Zeytinyağlı sebze yemeği + yarım yağlı yoğurt + salata Ara öğünlerde: Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)</string>
+</resources>
